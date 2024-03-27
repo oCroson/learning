@@ -1,3 +1,7 @@
+# Maintainer: Timothy Adams
+# Email: timskipladder@gmail.com
+# Last Updated: 26MAR2024
+
 import requests
 import os
 import sys
